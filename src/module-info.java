@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author abdou
- *
- */
-module quiz {
-}
